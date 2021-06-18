@@ -1,3 +1,6 @@
+
+![Screen Shot 2021-06-18 at 6 47 37 PM](https://user-images.githubusercontent.com/34934629/122622752-b9a8fa00-d067-11eb-9bbe-9302a631284f.png)
+
 Hi, I’m Josh.
 
 Fullstack developer, ML enthusiast, and lifelong student.

@@ -1,10 +1,16 @@
-Hi, I’m Josh.
+## Hi, I’m Josh.
 
 Fullstack developer, ML enthusiast, and lifelong student.
 
-Aspiring data scientist and machine learning engineer, working as a fullstack developer leveraging the strengths of 
-modern technologies to deliver performant technical and BI solutions to our clients.
-If you desire an inquisitive and proactive mind with a talent and ambition for problem solving, you're in the right place.
+I'm an aspiring machine learning engineer, currently working full-stack with Angular, .NET, and MSSQL in an Agile environment.
+If you're looking for a highly performant, proactive developer with a talent and ambition for problem solving, you're in the right place.
 
-- I’m currently reading Clean Code by Robert Martin :)
+I’m currently reading Clean Code by Robert Martin :)
+
+### Information
 - Here's my email: joshuapark823@gmail.com
+
+- Here's the stack I'm working with professionally:
+  - HTML/CSS/SCSS, Typescript, Angular/RxJS
+  - C#, .NET Framework/Core
+  - SQL, MSSQL, SQL Server

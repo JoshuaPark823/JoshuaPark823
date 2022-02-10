@@ -15,4 +15,4 @@ If you're looking for a highly performant, proactive developer with a talent and
 
 ### Learning
 - I’m currently reading Clean Code by Robert Martin
-- I'm currently practicing ML through trekhleb/homemade-machine-learning
+- I'm currently learning Flask through a personal project!

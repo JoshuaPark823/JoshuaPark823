@@ -14,5 +14,4 @@ If you're looking for a highly performant, proactive developer with a talent and
   - SQL, MSSQL, SQL Server
 
 ### Learning
-- I’m currently reading Clean Code by Robert Martin
-- I'm currently learning Flask through a personal project!
+- I’m currently building a serverless SaaS application using Typescript, Ionic, and Firebase!

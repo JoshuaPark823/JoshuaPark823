@@ -1,17 +1,12 @@
 ## Hi, I’m Josh.
 
-Fullstack developer, ML enthusiast, and lifelong student.
+Software developer, ML enthusiast, and lifelong student.
 
-I'm an aspiring machine learning engineer, currently working full-stack with Angular, .NET, and MSSQL in an Agile environment.
-If you're looking for a highly performant, proactive developer with a talent and ambition for problem solving, you're in the right place.
+I'm a CS graduate from McGill University currently working full-stack with <ins><b>React/Django</b></ins> in an Agile, Test-driven environment.
+I come from a background of <ins><b>Angular/.NET/SQL</b></ins> development and have a <ins><b>passion for learning new things.</b></ins>
 
-### Information
-- Here's my email: joshuapark823@gmail.com
+If your team needs an open-minded software engineer with <ins><b>experience designing, developing, testing, and deploying</b></ins> complex 
+software systems, give me a shout!
 
-- Here's the stack I'm working with professionally:
-  - HTML/CSS/SCSS, Typescript, Angular/RxJS
-  - C#, .NET Framework/Core
-  - SQL, MSSQL, SQL Server
-
-### Learning
-- I’m currently building a serverless SaaS application using Typescript, Ionic, and Firebase!
+Here's my email:
+- joshuapark823@gmail.com

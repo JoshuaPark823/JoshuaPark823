@@ -7,11 +7,3 @@ I come from a background of <ins><b>Angular/.NET/SQL</b></ins> development and h
 
 If your team needs an open-minded software engineer with <ins><b>experience designing, developing, testing, and deploying</b></ins> complex 
 software systems, give me a shout!
-
-Here's my email, LinkedIn, and my website!
-- joshuapark823@gmail.com
-- https://www.linkedin.com/in/joshpark823
-- https://joshpark.ca
-
-ProjectDock: We help developers, students, and researchers understand why some personal projects fail when others succeed.
-- https://projectdock.ca
